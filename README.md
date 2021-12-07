@@ -12,3 +12,6 @@ Already 2️⃣ delivered projects for Le Wagon, in collaboration 🤝 with Mela
 
 As my training at Le Wagon is over, I'm starting to learn by myself, by reading Ruby on Rails Tutorial 📖, and JavaScript Channel.
 I'm always curious and i love learning ! It's just the very first start of coding life.
+
+Languages and Tools:
+bootstrap, css3, figma, heroku, html5, illustrator, mysql, photoshop, postgresql, rails, ruby, xd
