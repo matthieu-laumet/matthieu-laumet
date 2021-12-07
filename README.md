@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi! 👋 I'm Matthieu ! 
 
-<!--
-**matthieu-laumet/matthieu-laumet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+After 10 years as a Print/Graphic Designer, I'm finally starting a new career challenge in web development, as a junior!
 
-Here are some ideas to get you started:
+I'm trained in Ruby & Ruby on Rails, JS, HTML/CSS, Git and GitHub, PostgreSQL thanks to Le Wagon Bordeaux.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Already 2️⃣ delivered projects for Le Wagon, in collaboration 🤝 with MelanieCouronne and chrismarchand :
+
+🚀 MamieExpress
+
+🚀 Buddy-bot
+
+As my training at Le Wagon is over, I'm starting to learn by myself, by reading Ruby on Rails Tutorial 📖, and JavaScript Channel.
+I'm always curious and i love learning ! It's just the very first start of coding life.
