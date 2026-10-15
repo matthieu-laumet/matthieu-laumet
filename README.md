@@ -1,4 +1,4 @@
-# Salut, moi c'est Matthieu 👋
+# Salut, c'est Matthieu 👋
 
 **Développeur Fullstack & Lead Developer**, je conçois et livre des applications web de bout en bout : de la modélisation des données et de l'architecture jusqu'à la mise en production.
 
